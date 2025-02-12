@@ -17,4 +17,4 @@ node_modules
 ignition/deployments/chain-31337
 
 # Python 
-check_contract/venv
+check_contract/.venv
